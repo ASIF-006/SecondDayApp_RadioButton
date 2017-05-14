@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SecondDayApp_RadioButton</string>
+    <string name="ninjas">ninjas</string>
+    <string name="pirates">pirates</string>
+</resources>
